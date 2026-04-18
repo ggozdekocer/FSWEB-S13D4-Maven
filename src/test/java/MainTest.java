@@ -3,7 +3,7 @@ import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
 
-import org.example.Point;
+import org.example.Main.Point;
 import org.example.Player;
 import org.example.Weapon;
 
